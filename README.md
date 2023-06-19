@@ -10,7 +10,8 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on creating unique and amazing projects on any tech stack.
 - 🤔 I’m looking for help with learning new technologies to become a full stack developer / Software Engineer.
 - 💬 Ask me about Competitive Programming and DSA/Interview Preparation related stuff.
-- 📫 How to reach me: Twitter - [@ayush_saxena25](https://twitter.com/ayush_saxena25), CodeForces - [@AyushSaxena3000](https://codeforces.com/profile/AyushSaxena3000)
+- 📫 How to reach me: Twitter - [@ayush_saxena25](https://twitter.com/ayush_saxena25), Codechef - [@ayush_3000]
+- (https://www.codechef.com/users/ayush_3000)
 - 😄 Pronouns: He/His
 <!-- - ⚡ Fun fact: 
 -->
