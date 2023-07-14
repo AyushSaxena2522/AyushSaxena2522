@@ -43,9 +43,7 @@ Here are some ideas to get you started: -->
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-<!-- ![Jaypal Mudaliyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypalmudaliyar24&show_icons=true&theme=flag-india) -->
-  
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypalmudaliyar24&show_icons=true&locale=en&layout=compact" alt="jaypalmudaliyar24" /> -->
+
 
 [gmail]: mailto:ayushsaxena8102@gmail.com
 [linkedin]: https://www.linkedin.com/in/ayush8102/
